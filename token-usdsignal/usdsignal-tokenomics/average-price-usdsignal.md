@@ -1,2 +1,0 @@
-# Average Price $SIGNAL
-
