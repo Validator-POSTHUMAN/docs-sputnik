@@ -18,11 +18,6 @@
 **-** [**Sputnik dApp**](sputnik-network-app-chain/sputnik-dapp.md)\
 **-** [**Sputnik DEX**](sputnik-network-app-chain/sputnik-dex.md)
 
-## [**Token $SIGNAL**](token-usdsignal/)
-
-**-** [**$SIGNAL Token Distribution**](token-usdsignal/usdsignal-token-distribution/)\
-**-** [**$SIGNAL Tokenomics**](token-usdsignal/usdsignal-tokenomics/)
-
 ## [**Roadmap**](roadmap.md)
 
 ## Our contacts:
