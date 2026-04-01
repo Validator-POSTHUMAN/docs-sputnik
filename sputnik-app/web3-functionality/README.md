@@ -15,3 +15,4 @@
 * [**Sending tokens or NFTs from a Personal Address to a blockchain-address, either by username or email** ](send-from-personal-address.md)
 * [**Sending tokens or NFTs from a Personal Address by a list that consists of blockchain-addresses, usernames and/or emails** ](multi-send-from-personal-address.md)
 * [**Interaction with the Sputnik Network App-chain**](interaction-with-sputnik-network-app-chain.md)
+* And many more other functionality that is available in the blockchain or dApp (trading, providing liquidity, staking and so on...)
